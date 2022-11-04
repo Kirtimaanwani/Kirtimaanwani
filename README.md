@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtimaanwani&theme=dark" alt="kirtimaanwani" /></p>
 
+![Github Activity Graph](https://github-readme-activity-graph-1.herokuapp.com/graph?username=Kirtimaanwani&theme=github-dark)
