@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Project Life Cycle**
+- 🔭 I’m currently working on **Feature Engineering, Data pre-processing, Data collection , Model training and retraning Approach**
 
 - 🌱 I’m currently learning **Machine Learning Project Architecture,Deep Learning, Cloud Deployment**
 
